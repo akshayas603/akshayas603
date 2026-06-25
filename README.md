@@ -3,12 +3,35 @@
 <h3 align="center">Software Developer | Java Programmer | SQL Developer | Software Testing Enthusiast</h3>
 
 <p align="center">
-Passionate about developing software solutions, exploring Artificial Intelligence, and continuously improving my skills in Software Development, Database Management, and Quality Assurance.
+Passionate about developing software solutions, database management, software testing, and Artificial Intelligence. I enjoy building real-world applications, solving problems, and continuously learning new technologies.
+</p>
+
+<p align="center">
+<a href="https://github.com/akshayas603">GitHub</a> •
+<a href="https://www.linkedin.com/in/akshaya-s-bb648b298">LinkedIn</a>
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 🚀 About Me
+
+🎓 Computer Science Graduate
+
+💻 Java Developer with strong programming fundamentals
+
+🗄️ SQL Developer skilled in database design and query optimization
+
+🧪 Software Testing Enthusiast with knowledge of Manual Testing, Agile, and Scrum
+
+🌐 Frontend Development Learner
+
+🤖 Interested in Artificial Intelligence, Machine Learning, and Computer Vision
+
+📚 Passionate about learning new technologies and solving real-world problems
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshayas603&show_icons=true&theme=tokyonight" />
@@ -21,95 +44,68 @@ Passionate about developing software solutions, exploring Artificial Intelligenc
 
 ---
 
-# 🚀 About Me
+# 💻 Technical Skills
 
-🎓 Computer Science Enthusiast
+## Programming Languages
 
-💻 Passionate Java & SQL Developer
+* Java
+* JavaScript
+* SQL
+* Python
 
-🌐 Web Development Learner
+## Frontend Development
 
-🧪 Software Testing Enthusiast
+* HTML5
+* CSS3
+* JavaScript
+* Flexbox
+* CSS Grid
+* Responsive Web Design
 
-📊 Skilled in Database Design and SQL Query Development
+## Database Technologies
 
-🤖 Exploring Artificial Intelligence, Machine Learning, and Computer Vision
+* MySQL
+* Database Design
+* SQL Query Optimization
+* Joins, Subqueries, Constraints
+* CRUD Operations
 
-🌱 Currently Learning:
+## Software Testing
+
+* Manual Testing
+* Test Case Design
+* Defect Reporting
+* SDLC & STLC
+* Agile Methodology
+* Scrum Framework
+
+## Tools & Platforms
+
+* Git
+* GitHub
+* VS Code
+* Eclipse
+* ServiceNow
+
+## AI & Machine Learning
+
+* Python
+* OpenCV
+* Machine Learning
+* Computer Vision
+* Deep Learning Fundamentals
+
+---
+
+# 🌱 Currently Learning
 
 * Data Structures & Algorithms
 * Advanced Java
-* SQL Query Optimization
 * Selenium Automation Testing
+* SQL Query Optimization
 * ServiceNow Development
 * Full Stack Development
-
-🎯 Goal:
-
-To become a Software Engineer capable of building scalable applications and delivering high-quality software solutions.
-
----
-
-# 💻 Tech Stack
-
-### Programming Languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Software Testing
-
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-02569B?style=for-the-badge)
-
-![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge)
-
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
-
-### AI & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse\&logoColor=white)
-
-![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge\&logo=servicenow\&logoColor=white)
-
----
-
-# 🗄️ Database Skills
-
-* SQL Queries
-* Joins
-* Subqueries
-* Aggregate Functions
-* Constraints
-* CRUD Operations
-* Database Design
-* MySQL Database Management
+* Software Testing Frameworks
 
 ---
 
@@ -117,7 +113,7 @@ To become a Software Engineer capable of building scalable applications and deli
 
 ## 🎭 Emotion Detection System
 
-Developed an AI-based system capable of identifying human emotions using audio and video analysis.
+AI-powered application capable of recognizing human emotions through audio and video analysis.
 
 ### Technologies
 
@@ -127,15 +123,16 @@ Developed an AI-based system capable of identifying human emotions using audio a
 
 ### Features
 
-* Emotion recognition from multimedia inputs
-* Audio and video processing
-* Machine Learning-based prediction
+* Emotion Recognition
+* Audio Processing
+* Video Analysis
+* Machine Learning Predictions
 
 ---
 
-## 🚗 Number Plate Detection
+## 🚗 Number Plate Detection System
 
-Built a computer vision application for automatic vehicle number plate detection and recognition.
+Computer vision application for automatic vehicle number plate detection and recognition.
 
 ### Technologies
 
@@ -145,51 +142,45 @@ Built a computer vision application for automatic vehicle number plate detection
 
 ### Features
 
-* Vehicle number plate extraction
-* Automated recognition workflow
-* Real-time image processing
+* Number Plate Extraction
+* Character Recognition
+* Real-Time Processing
 
 ---
 
-## 🧠 Brain Tumor Detection
+## 🧠 Brain Tumor Detection System
 
-Developed a machine learning solution for identifying brain tumors from medical images.
+Machine learning model designed to identify brain tumors from medical images.
 
 ### Technologies
 
 * Python
-* Machine Learning
 * Deep Learning
 * Image Processing
 
 ### Features
 
-* Medical image classification
-* Tumor detection assistance
-* AI-powered prediction system
+* Medical Image Classification
+* Tumor Detection
+* AI-Based Prediction
 
 ---
 
 ## 🏫 Educational Organization Management Using ServiceNow
 
-Designed a ServiceNow-based solution to automate educational organization workflows and service requests.
-
-### Technologies
-
-* ServiceNow
-* Workflow Automation
+Workflow automation solution developed using ServiceNow.
 
 ### Features
 
-* Workflow management
-* Service request handling
-* Process optimization
+* Service Request Management
+* Workflow Automation
+* Process Optimization
 
 ---
 
 ## 📢 Job Notification Tracker
 
-Developed an application that helps users organize and track job opportunities efficiently.
+Application that helps users track and manage job opportunities efficiently.
 
 ### Technologies
 
@@ -201,113 +192,88 @@ Developed an application that helps users organize and track job opportunities e
 
 ### Features
 
-* Job tracking
-* Notification management
-* Database-driven data storage and retrieval
-* User-friendly interface
-
----
-
-## 👋 Greeting Application
-
-Developed an interactive application that generates personalized greetings based on user input.
-
-### Technologies
-
-* Java
-
-### Features
-
-* Dynamic user input handling
-* Personalized greeting generation
-* Java fundamentals implementation
+* Job Tracking
+* Notifications
+* Database Integration
+* User-Friendly Interface
 
 ---
 
 ## 🌐 Frontend Development Projects
 
-Created responsive websites and UI layouts using modern web technologies.
-
-### Technologies
-
-* HTML5
-* CSS3
-* JavaScript
-* Flexbox
-* CSS Grid
+Responsive websites and user interfaces developed using modern web technologies.
 
 ### Topics Covered
 
 * Semantic HTML
-* Responsive Design
 * CSS Flexbox
-* CSS Grid Layout
+* CSS Grid
+* Responsive Design
+* JavaScript Fundamentals
 
 ---
 
-# 📚 Learning & Practice Repositories
+# 🏆 Strengths
 
-Maintaining repositories dedicated to:
+✅ Java Programming
 
-* Java Programming
+✅ SQL & Database Management
+
+✅ Software Testing Fundamentals
+
+✅ Problem Solving
+
+✅ Git & GitHub
+
+✅ AI & Computer Vision Projects
+
+✅ Agile & Scrum
+
+✅ Team Collaboration
+
+✅ Continuous Learning Mindset
+
+---
+
+# 📚 Learning Repositories
+
+* Java Programming Practice
 * Data Structures & Algorithms
 * SQL Practice
+* Web Development
 * Git & GitHub
-* Problem Solving
-* Web Development Fundamentals
-
-These repositories demonstrate my commitment to continuous learning and technical growth.
+* Problem Solving Challenges
 
 ---
 
-# 📈 What I Bring
+# 🎯 Career Objective
 
-✅ Strong Java Programming Fundamentals
-
-✅ SQL Query Writing & Database Management
-
-✅ Database Design and Data Retrieval
-
-✅ Problem-Solving Mindset
-
-✅ Software Testing Knowledge
-
-✅ AI & Computer Vision Project Experience
-
-✅ Git & GitHub Version Control
-
-✅ Continuous Learning Attitude
-
-✅ Team Collaboration Skills
-
-✅ Understanding of Agile & Scrum
-
----
-
-# 🌱 Currently Working On
-
-* Data Structures & Algorithms
-* Selenium Automation Testing
-* Advanced Java
-* SQL Query Optimization
-* Database Management
-* Full Stack Development
-* Software Testing Frameworks
+Seeking opportunities as a Software Developer, Java Developer  or Full Stack Developer where I can apply my technical skills, contribute to impactful projects, and continue growing as a software professional.
 
 ---
 
 # 📫 Connect With Me
 
-🔗 GitHub: https://github.com/akshayas603
+🔗 GitHub:
+https://github.com/akshayas603
 
-💼 Open to Internships, Entry-Level Software Developer Roles, Software Testing Roles, and QA Engineer Opportunities.
+🔗 LinkedIn:
+https://www.linkedin.com/in/akshaya-s-bb648b298
+
+💼 Open to:
+
+* Software Developer Roles
+* Java Developer Roles
+* Software Testing Roles
+* QA Engineer Roles
+* Internship Opportunities
 
 ---
 
 <div align="center">
 
-### 💡 "Code. Test. Learn. Improve. Repeat."
+### 💡 Code • Test • Learn • Improve • Repeat
 
-⭐ Always learning new technologies and building projects that solve real-world problems.
+⭐ Building projects, learning technologies, and growing every day.
 
 </div>
