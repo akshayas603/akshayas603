@@ -263,9 +263,7 @@ https://www.linkedin.com/in/akshaya-s-bb648b298
 💼 Open to:
 
 * Software Developer Roles
-* Java Developer Roles
-* Software Testing Roles
-* QA Engineer Roles
+* Java Developer Role
 * Internship Opportunities
 
 ---
