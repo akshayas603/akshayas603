@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshaya</h1>
 
 <h3 align="center">
-Software Developer | Java Programmer | QA Enthusiast | AI & Computer Vision Learner
+Software Developer | Java Programmer 
 </h3>
 
 <p align="center">
