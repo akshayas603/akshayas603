@@ -1,9 +1,9 @@
 # Hi 👋, I'm Akshaya
 
-<h3 align="center">Software Developer | Java Programmer | Software Testing Enthusiast</h3>
+<h3 align="center">Software Developer | Java Programmer | SQL Developer | Software Testing Enthusiast</h3>
 
 <p align="center">
-Passionate about developing software solutions, exploring Artificial Intelligence, and continuously improving my skills in Software Development and Quality Assurance.
+Passionate about developing software solutions, exploring Artificial Intelligence, and continuously improving my skills in Software Development, Database Management, and Quality Assurance.
 </p>
 
 ---
@@ -25,11 +25,13 @@ Passionate about developing software solutions, exploring Artificial Intelligenc
 
 🎓 Computer Science Enthusiast
 
-💻 Passionate Java Developer
+💻 Passionate Java & SQL Developer
 
 🌐 Web Development Learner
 
 🧪 Software Testing Enthusiast
+
+📊 Skilled in Database Design and SQL Query Development
 
 🤖 Exploring Artificial Intelligence, Machine Learning, and Computer Vision
 
@@ -37,11 +39,13 @@ Passionate about developing software solutions, exploring Artificial Intelligenc
 
 * Data Structures & Algorithms
 * Advanced Java
-* SQL
+* SQL Query Optimization
 * Selenium Automation Testing
 * ServiceNow Development
+* Full Stack Development
 
 🎯 Goal:
+
 To become a Software Engineer capable of building scalable applications and delivering high-quality software solutions.
 
 ---
@@ -53,6 +57,12 @@ To become a Software Engineer capable of building scalable applications and deli
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ### Frontend Development
 
@@ -76,7 +86,7 @@ To become a Software Engineer capable of building scalable applications and deli
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
 
-### Tools
+### Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
@@ -87,6 +97,19 @@ To become a Software Engineer capable of building scalable applications and deli
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse\&logoColor=white)
 
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge\&logo=servicenow\&logoColor=white)
+
+---
+
+# 🗄️ Database Skills
+
+* SQL Queries
+* Joins
+* Subqueries
+* Aggregate Functions
+* Constraints
+* CRUD Operations
+* Database Design
+* MySQL Database Management
 
 ---
 
@@ -171,6 +194,8 @@ Developed an application that helps users organize and track job opportunities e
 ### Technologies
 
 * Java
+* SQL
+* MySQL
 * HTML
 * CSS
 
@@ -178,6 +203,7 @@ Developed an application that helps users organize and track job opportunities e
 
 * Job tracking
 * Notification management
+* Database-driven data storage and retrieval
 * User-friendly interface
 
 ---
@@ -225,6 +251,7 @@ Maintaining repositories dedicated to:
 
 * Java Programming
 * Data Structures & Algorithms
+* SQL Practice
 * Git & GitHub
 * Problem Solving
 * Web Development Fundamentals
@@ -236,6 +263,10 @@ These repositories demonstrate my commitment to continuous learning and technica
 # 📈 What I Bring
 
 ✅ Strong Java Programming Fundamentals
+
+✅ SQL Query Writing & Database Management
+
+✅ Database Design and Data Retrieval
 
 ✅ Problem-Solving Mindset
 
@@ -258,7 +289,8 @@ These repositories demonstrate my commitment to continuous learning and technica
 * Data Structures & Algorithms
 * Selenium Automation Testing
 * Advanced Java
-* SQL
+* SQL Query Optimization
+* Database Management
 * Full Stack Development
 * Software Testing Frameworks
 
@@ -268,7 +300,7 @@ These repositories demonstrate my commitment to continuous learning and technica
 
 🔗 GitHub: https://github.com/akshayas603
 
-💼 Open to Internships, Entry-Level Software Developer Roles, and QA Engineer Opportunities.
+💼 Open to Internships, Entry-Level Software Developer Roles, Software Testing Roles, and QA Engineer Opportunities.
 
 ---
 
