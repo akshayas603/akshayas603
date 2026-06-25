@@ -1,11 +1,22 @@
-<h1 align="center">Hi 👋, I'm Akshaya</h1>
+# Hi 👋, I'm Akshaya
 
-<h3 align="center">
-Software Developer | Java Programmer 
-</h3>
+<h3 align="center">Software Developer | Java Programmer | Software Testing Enthusiast</h3>
 
 <p align="center">
-Passionate about developing software solutions, exploring Artificial Intelligence, and ensuring software quality through testing and continuous learning.
+Passionate about developing software solutions, exploring Artificial Intelligence, and continuously improving my skills in Software Development and Quality Assurance.
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=akshayas603&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayas603&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshayas603&theme=tokyonight" />
 </p>
 
 ---
@@ -14,56 +25,68 @@ Passionate about developing software solutions, exploring Artificial Intelligenc
 
 🎓 Computer Science Enthusiast
 
-💻 Skilled in Java Programming and Web Development
+💻 Passionate Java Developer
 
-🧪 Interested in Software Testing and Quality Assurance
+🌐 Web Development Learner
+
+🧪 Software Testing Enthusiast
 
 🤖 Exploring Artificial Intelligence, Machine Learning, and Computer Vision
 
 🌱 Currently Learning:
-- Data Structures & Algorithms
-- Advanced Java
-- SQL
-- Selenium Automation Testing
-- ServiceNow Development
+
+* Data Structures & Algorithms
+* Advanced Java
+* SQL
+* Selenium Automation Testing
+* ServiceNow Development
 
 🎯 Goal:
-To become a Software Engineer capable of developing innovative applications and delivering high-quality software solutions.
+To become a Software Engineer capable of building scalable applications and delivering high-quality software solutions.
 
 ---
 
-# 🛠️ Technical Skills
+# 💻 Tech Stack
 
-## Programming Languages
-- Java
-- JavaScript
+### Programming Languages
 
-## Web Technologies
-- HTML5
-- CSS3
-- Responsive Web Design
-- Flexbox
-- CSS Grid
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-## Software Testing
-- Manual Testing
-- SDLC
-- STLC
-- Agile Methodology
-- Scrum Framework
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-## Artificial Intelligence & Computer Vision
-- Machine Learning
-- Emotion Detection
-- Number Plate Detection
-- Brain Tumor Detection
+### Frontend Development
 
-## Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Eclipse
-- ServiceNow
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Software Testing
+
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-02569B?style=for-the-badge)
+
+![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge)
+
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge)
+
+### AI & Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge\&logo=eclipse\&logoColor=white)
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge\&logo=servicenow\&logoColor=white)
 
 ---
 
@@ -73,15 +96,17 @@ To become a Software Engineer capable of developing innovative applications and 
 
 Developed an AI-based system capable of identifying human emotions using audio and video analysis.
 
-### Features
-- Emotion recognition from multimedia inputs
-- Audio and video processing
-- Machine Learning-based prediction
-
 ### Technologies
-- Python
-- Machine Learning
-- Computer Vision
+
+* Python
+* Machine Learning
+* Computer Vision
+
+### Features
+
+* Emotion recognition from multimedia inputs
+* Audio and video processing
+* Machine Learning-based prediction
 
 ---
 
@@ -89,115 +114,122 @@ Developed an AI-based system capable of identifying human emotions using audio a
 
 Built a computer vision application for automatic vehicle number plate detection and recognition.
 
-### Features
-- Vehicle number plate extraction
-- Image processing techniques
-- Automated recognition workflow
-
 ### Technologies
-- Python
-- OpenCV
-- Image Processing
+
+* Python
+* OpenCV
+* Image Processing
+
+### Features
+
+* Vehicle number plate extraction
+* Automated recognition workflow
+* Real-time image processing
 
 ---
 
 ## 🧠 Brain Tumor Detection
 
-Developed a machine learning project for identifying brain tumors from medical images.
-
-### Features
-- Medical image classification
-- Tumor detection assistance
-- AI-powered prediction
+Developed a machine learning solution for identifying brain tumors from medical images.
 
 ### Technologies
-- Python
-- Machine Learning
-- Image Processing
+
+* Python
+* Machine Learning
+* Deep Learning
+* Image Processing
+
+### Features
+
+* Medical image classification
+* Tumor detection assistance
+* AI-powered prediction system
 
 ---
 
 ## 🏫 Educational Organization Management Using ServiceNow
 
-Designed and implemented a ServiceNow-based solution for managing educational organization processes and workflows.
-
-### Features
-- Workflow automation
-- Service request management
-- Process optimization
+Designed a ServiceNow-based solution to automate educational organization workflows and service requests.
 
 ### Technologies
-- ServiceNow
-- Workflow Automation
+
+* ServiceNow
+* Workflow Automation
+
+### Features
+
+* Workflow management
+* Service request handling
+* Process optimization
 
 ---
 
 ## 📢 Job Notification Tracker
 
-Created an application that helps users track and manage job opportunities efficiently.
-
-### Features
-- Job notification management
-- Organized tracking system
-- User-friendly interface
+Developed an application that helps users organize and track job opportunities efficiently.
 
 ### Technologies
-- Java
-- Web Technologies
+
+* Java
+* HTML
+* CSS
+
+### Features
+
+* Job tracking
+* Notification management
+* User-friendly interface
 
 ---
 
 ## 👋 Greeting Application
 
-Developed an interactive Greeting Application that generates personalized greetings based on user input.
+Developed an interactive application that generates personalized greetings based on user input.
+
+### Technologies
+
+* Java
 
 ### Features
-- Dynamic user input handling
-- Personalized greeting generation
-- Simple and user-friendly interface
 
-### Concepts Used
-- Java Fundamentals
-- Methods and Functions
-- Conditional Statements
-- User Input Processing
-
-### Technologies
-- Java
-- Eclipse
-- VS Code
+* Dynamic user input handling
+* Personalized greeting generation
+* Java fundamentals implementation
 
 ---
 
-## 🌐 Frontend Web Development Projects
+## 🌐 Frontend Development Projects
 
-Developed responsive web pages using modern web development concepts.
+Created responsive websites and UI layouts using modern web technologies.
+
+### Technologies
+
+* HTML5
+* CSS3
+* JavaScript
+* Flexbox
+* CSS Grid
 
 ### Topics Covered
-- Semantic HTML
-- CSS Styling
-- Flexbox Layout
-- Grid Layout
-- Responsive Design
 
-### Technologies
-- HTML5
-- CSS3
-- JavaScript
+* Semantic HTML
+* Responsive Design
+* CSS Flexbox
+* CSS Grid Layout
 
 ---
 
-## 📚 Learning & Practice Repositories
+# 📚 Learning & Practice Repositories
 
 Maintaining repositories dedicated to:
 
-- Java Programming Practice
-- Data Structures & Algorithms
-- Git & GitHub Concepts
-- Problem Solving
-- Web Development Fundamentals
+* Java Programming
+* Data Structures & Algorithms
+* Git & GitHub
+* Problem Solving
+* Web Development Fundamentals
 
-These repositories demonstrate my commitment to continuous learning and skill improvement.
+These repositories demonstrate my commitment to continuous learning and technical growth.
 
 ---
 
@@ -205,30 +237,30 @@ These repositories demonstrate my commitment to continuous learning and skill im
 
 ✅ Strong Java Programming Fundamentals
 
-✅ Good Understanding of Software Development Life Cycle
+✅ Problem-Solving Mindset
 
-✅ Knowledge of Software Testing Concepts
+✅ Software Testing Knowledge
 
-✅ Experience with AI and Computer Vision Projects
+✅ AI & Computer Vision Project Experience
 
-✅ Hands-on Experience with Git & GitHub
+✅ Git & GitHub Version Control
 
-✅ Continuous Learning Mindset
+✅ Continuous Learning Attitude
 
-✅ Problem-Solving Skills
+✅ Team Collaboration Skills
 
-✅ Team Collaboration and Agile Awareness
+✅ Understanding of Agile & Scrum
 
 ---
 
 # 🌱 Currently Working On
 
-- Data Structures & Algorithms
-- Selenium Automation Testing
-- Advanced Java
-- SQL
-- Full Stack Development
-- Software Testing Frameworks
+* Data Structures & Algorithms
+* Selenium Automation Testing
+* Advanced Java
+* SQL
+* Full Stack Development
+* Software Testing Frameworks
 
 ---
 
@@ -236,7 +268,7 @@ These repositories demonstrate my commitment to continuous learning and skill im
 
 🔗 GitHub: https://github.com/akshayas603
 
-💼 Open to Internships, Entry-Level Software Developer Roles.
+💼 Open to Internships, Entry-Level Software Developer Roles, and QA Engineer Opportunities.
 
 ---
 
