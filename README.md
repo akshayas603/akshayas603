@@ -98,12 +98,10 @@ Passionate about developing software solutions, database management, software te
 ---
 
 # 🌱 Currently Learning
-
+*python
 * Data Structures & Algorithms
 * Advanced Java
-* Selenium Automation Testing
-* SQL Query Optimization
-* ServiceNow Development
+*Javascript
 * Full Stack Development
 * Software Testing Frameworks
 
