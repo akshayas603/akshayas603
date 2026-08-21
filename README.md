@@ -242,7 +242,7 @@ Responsive websites and user interfaces developed using modern web technologies.
 * Git & GitHub
 * Problem Solving Challenges
 
----
+----
 
 # 🎯 Career Objective
 
