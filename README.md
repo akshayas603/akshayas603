@@ -1,615 +1,379 @@
 # 👋 Hi, I'm Akshaya S
 
+<h3 align="center">
+  ☕ Java Developer | 💻 Software Developer | 🌐 Full Stack Developer
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=☕+Java+Developer;💻+Software+Developer;🌐+Full+Stack+Developer;🗄️+SQL+%26+Database+Enthusiast;🧪+Software+Testing+Enthusiast;🤖+AI+%26+Machine+Learning+Explorer;🚀+Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Java+Developer+☕;Software+Developer+💻;SQL+%26+Database+Enthusiast+🗄️;Full+Stack+Developer+🌐;Software+Testing+Enthusiast+🧪;AI+%26+Machine+Learning+Explorer+🤖;Always+Learning+%26+Building+🚀" />
 </p>
 
 <p align="center">
   <a href="https://github.com/akshayas603">
-    <img src="https://img.shields.io/badge/💻_GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/s-akshaya-bb648b298">
-    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ## 👩‍💻 About Me
 
-🎓 Computer Science Engineering Graduate
+🎓 Computer Science Engineering graduate from **University College of Engineering, Nagercoil**, with a **CGPA of 8.3**.
 
-⭐ **CGPA: 8.3**
+☕ Strong foundation in **Java, Object-Oriented Programming, JDBC and application development**.
 
-☕ Passionate about **Java Development**
+💻 Hands-on experience through **Java and Software Development internships**, working with Java, SQL, MySQL, frontend technologies and Manual Testing.
 
-💻 Interested in **Software Development**
+🗄️ Interested in **SQL, MySQL, Database Management and backend development**.
 
-🗄️ Strong interest in **SQL & Databases**
+🌐 Building web applications using **HTML, CSS and JavaScript**.
 
-🌐 Interested in **Web Development**
+🧪 Familiar with **Manual Testing, SDLC, Agile Methodology and Scrum**.
 
-🧪 Knowledge of **Manual Testing**
+🤖 Interested in **Artificial Intelligence, Machine Learning and Computer Vision**.
 
-🤖 Interested in **AI / Machine Learning**
+🔀 Comfortable using **Git and GitHub** for version control and project management.
 
-🚀 Enjoy building practical real-world applications
+🧠 Currently improving my **Data Structures & Algorithms, JavaScript and Full Stack Development** skills.
 
-🎯 Looking for **Software Developer / Java Developer** opportunities
+🎯 Looking for opportunities where I can contribute to real-world software projects and grow as a software engineer.
 
-</td>
+---
 
-<td width="50%" valign="top">
+# 📊 Professional Snapshot
 
-## 📊 Quick Profile
-
-| | |
-|---|---|
-| 🎓 **Degree** | B.E. Computer Science |
-| ⭐ **CGPA** | 8.3 |
-| ☕ **Primary Language** | Java |
-| 🗄️ **Database** | SQL / MySQL |
-| 🌐 **Frontend** | HTML / CSS / JavaScript |
-| ⚙️ **Backend** | Java / Spring Boot |
-| 🧪 **Testing** | Manual Testing |
-| 🤖 **AI / ML** | Python / OpenCV |
-| 🔀 **Version Control** | Git / GitHub |
-
-</td>
-
+<table align="center">
+<tr>
+<th>📌 Category</th>
+<th>💡 Details</th>
 </tr>
+
+<tr>
+<td>🎓 Education</td>
+<td>B.E. Computer Science Engineering</td>
+</tr>
+
+<tr>
+<td>⭐ CGPA</td>
+<td>8.3 / 10</td>
+</tr>
+
+<tr>
+<td>💼 Experience</td>
+<td>Java Intern + Software Development Intern</td>
+</tr>
+
+<tr>
+<td>☕ Primary Language</td>
+<td>Java</td>
+</tr>
+
+<tr>
+<td>🗄️ Database</td>
+<td>SQL • MySQL • MongoDB</td>
+</tr>
+
+<tr>
+<td>🌐 Frontend</td>
+<td>HTML • CSS • JavaScript</td>
+</tr>
+
+<tr>
+<td>⚙️ Backend</td>
+<td>Java • Spring Boot • JDBC</td>
+</tr>
+
+<tr>
+<td>🧪 Testing</td>
+<td>Manual Testing • SDLC • Agile</td>
+</tr>
+
+<tr>
+<td>🤖 AI / ML</td>
+<td>Python • OpenCV • TensorFlow/Keras • CNN</td>
+</tr>
+
+<tr>
+<td>🔧 Tools</td>
+<td>Git • GitHub • Maven • Eclipse • VS Code</td>
+</tr>
+
 </table>
 
 ---
 
 # 🛠️ Technical Skills
 
-<table>
-<tr>
+## ☕ Programming Languages
 
-<td width="50%" valign="top">
-
-## 👨‍💻 Programming Languages
-
-### ☕ Java
-`Core Java` `OOP` `Collections`  
-`Exception Handling` `Multithreading` `JDBC`
-
-### 🐍 Python
-`Programming` `Machine Learning`  
-`Computer Vision` `OpenCV`
-
-### 🟨 JavaScript
-`JavaScript Fundamentals` `DOM`  
-`Web Development`
-
-### 🗄️ SQL
-`Queries` `Joins` `Subqueries`  
-`CRUD` `Database Management`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 Web & Backend
-
-### 🌐 Frontend
-`HTML5` `CSS3` `JavaScript`
-
-### ☕ Backend
-`Java` `Spring Boot` `JDBC`
-
-### 🏗️ Architecture
-`MVC`
-
-### 📦 Build
-`Maven`
-
-### 🗄️ ORM
-`Hibernate`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🧪 Testing & Development
-
-🧪 Manual Testing
-
-📝 Test Case Design
-
-🔍 Test Scenarios
-
-🐞 Defect Reporting
-
-🔄 SDLC
-
-🔄 STLC
-
-🚀 Agile Methodology
-
-👥 Scrum
-
-🐞 Debugging
-
-⚡ Troubleshooting
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🗄️ Databases & Tools
-
-### 🗄️ Databases
-
-🐬 MySQL  
-🗃️ SQL Server  
-🍃 MongoDB
-
-### 🔧 Tools
-
-🔀 Git  
-💻 GitHub  
-🛠️ Eclipse  
-📝 VS Code  
-💡 IntelliJ IDEA  
-📦 Maven
-
-</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2" valign="top">
-
-## 🤖 AI / Machine Learning
-
-<table>
-<tr>
-<td align="center">🐍 Python</td>
-<td align="center">👁️ OpenCV</td>
-<td align="center">🧠 TensorFlow</td>
-<td align="center">🤖 Keras</td>
-<td align="center">🔬 CNN</td>
-<td align="center">🔢 NumPy</td>
-<td align="center">👁️ Computer Vision</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-</table>
+| Language | Skills |
+|---|---|
+| ☕ **Java** | Core Java • OOP • Collections • Exception Handling • Multithreading • JDBC |
+| 🐍 **Python** | Programming • Machine Learning • Computer Vision |
+| 🟨 **JavaScript** | JavaScript Fundamentals • DOM • Web Development |
+| 🗄️ **SQL** | Queries • Joins • Subqueries • CRUD • Database Management |
 
 ---
 
-# 💼 Professional Experience
+## 🌐 Web Development
 
-<table>
-<tr>
+<p align="left">
 
-<td width="50%" valign="top">
+<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+
+</p>
+
+**HTML5 • CSS3 • JavaScript • Responsive Web Design • Frontend Development**
+
+---
+
+## ☕ Java Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
+
+</p>
+
+**Core Java • OOP • Collections • Exception Handling • Multithreading • JDBC • Spring Boot • Hibernate • Maven**
+
+---
+
+## 🗄️ Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+</p>
+
+**SQL • MySQL • MongoDB • CRUD Operations • Joins • Subqueries • Database Management**
+
+---
+
+## 🧪 Software Testing
+
+**Manual Testing • Test Case Design • Test Scenarios • Defect Reporting • SDLC • STLC • Agile Methodology • Scrum**
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv"/>
+
+</p>
+
+**Python • OpenCV • TensorFlow/Keras • CNN • NumPy • Machine Learning • Computer Vision**
+
+---
+
+## 🔧 Development Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,maven"/>
+
+</p>
+
+**Git • GitHub • VS Code • Eclipse • IntelliJ IDEA • Maven**
+
+---
+
+# 💼 Experience
 
 ## 💻 Software Development Intern
 
-### KodNest Technologies
-
-📍 Bengaluru, Karnataka
+### KodNest Technologies — Bengaluru
 
 📅 **February 2026 – Present**
 
-### 🔹 Work Areas
+- 💻 Gained practical experience in **Java development**.
+- 🗄️ Worked with **MySQL and database concepts**.
+- 🌐 Developed skills in **frontend technologies**.
+- 🧪 Gained hands-on exposure to **Manual Testing**.
+- 🤝 Worked in an industry-oriented learning and development environment.
+- 🚀 Applied programming knowledge to practical projects.
 
-☕ Java Development
-
-🗄️ MySQL
-
-🌐 Frontend Technologies
-
-🧪 Manual Testing
-
-💻 Software Development
-
-🤝 Industry-oriented Projects
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ## ☕ Java Intern
 
-### Alo Info-Tech
+### Alo Info-Tech — Parvathipuram
 
-📍 Parvathipuram
-
-### 🔹 Work Areas
-
-☕ Core Java
-
-🔌 JDBC
-
-🗄️ SQL
-
-✏️ CRUD Operations
-
-🏗️ MVC Architecture
-
-🐞 Debugging
-
-⚡ Troubleshooting
-
-🛠️ Eclipse & VS Code
-
-</td>
-
-</tr>
-</table>
+- ☕ Worked with **Core Java, JDBC and SQL**.
+- 🗄️ Implemented database connectivity and **CRUD operations**.
+- 🏗️ Gained exposure to **MVC architecture**.
+- 🐞 Worked on debugging and troubleshooting application issues.
+- ⚡ Improved application logic and code quality.
+- 🛠️ Used **Eclipse and VS Code** for development.
 
 ---
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+## 🥇 🫀 Organ Donation Management System
 
-<td width="50%" valign="top">
+> A web-based application designed to manage donor registration, recipient registration and organ request processing.
 
-## 🫀 Organ Donation Management System
+### 🛠️ Technologies
 
-### 🛠️ Tech Stack
+`☕ Java` `🌱 Spring Boot` `🗄️ SQL` `🌐 HTML` `🎨 CSS`
 
-`☕ Java`  
-`🌱 Spring Boot`  
-`🗄️ SQL`  
-`🌐 HTML`  
-`🎨 CSS`
+### ✨ Key Features
 
-### ✨ Features
-
-👤 Donor Registration
-
-🧑‍⚕️ Recipient Management
-
-🏥 Hospital Management
-
-🫀 Organ Request Processing
-
-🔐 User Authentication
-
-🔄 Organ Allocation
-
-🗄️ SQL Data Management
-
-📱 Responsive Interface
+- 👤 Donor registration
+- 🧑‍⚕️ Recipient management
+- 🏥 Hospital information management
+- 🫀 Organ request processing
+- 🔐 User authentication
+- 🔄 Organ allocation workflow
+- 🗄️ Database management
+- 📋 Record management
 
 ### 💡 Highlights
 
-Developed backend functionality using Java and Spring Boot with SQL-based data management.
+- Developed backend functionality using **Java and Spring Boot**.
+- Designed a responsive interface using **HTML and CSS**.
+- Used SQL to store and manage donor, recipient, hospital and organ records.
+- Implemented registration and record-management workflows.
+- Designed the application to improve organization and efficiency of donation-related data.
 
 🔗 **[View Project →](https://github.com/akshayas603)**
 
-</td>
+---
 
-<td width="50%" valign="top">
+# 🧠 Brain Tumor Detection
 
-## 🧠 Brain Tumor Detection
+> CNN-based deep learning project for detecting brain tumors from MRI images.
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies
 
-`🐍 Python`  
-`👁️ OpenCV`  
-`🧠 TensorFlow/Keras`  
-`🔬 CNN`  
-`🔢 NumPy`
+`🐍 Python` `👁️ OpenCV` `🧠 TensorFlow/Keras` `🔬 CNN` `🔢 NumPy`
 
-### ✨ Features
+### ✨ Key Features
 
-🧠 MRI Image Classification
-
-🖼️ Image Preprocessing
-
-🔍 Tumor Detection
-
-🤖 Deep Learning Prediction
-
-👁️ Computer Vision
+- 🧠 MRI image classification
+- 🖼️ Image preprocessing
+- 🔍 Tumor / non-tumor classification
+- 🤖 Deep learning prediction
+- 👁️ Computer Vision
 
 ### 💡 Highlights
 
-CNN-based deep learning project for detecting brain tumors from MRI images.
+- Developed a CNN-based model for MRI image classification.
+- Performed image preprocessing using OpenCV.
+- Applied deep learning techniques for tumor detection.
+- Used AI and Computer Vision concepts for healthcare diagnostics.
 
 🔗 **[View Project →](https://github.com/akshayas603/brain_tumor_detections)**
 
-</td>
+---
 
-</tr>
+# 🎉 Greeting App
 
-<tr>
+> A web-based application that generates dynamic greeting responses.
 
-<td width="50%" valign="top">
+### 🛠️ Technologies
 
-## 🎉 Greeting App
-
-### 🛠️ Tech Stack
-
-`☕ Java`  
-`🌱 Spring Boot`  
-`🌐 HTML`  
-`🎨 CSS`
+`☕ Java` `🌱 Spring Boot` `🌐 HTML` `🎨 CSS`
 
 ### ✨ Features
 
-🎨 Responsive UI
-
-⚡ Dynamic Greetings
-
-🔗 Frontend-Backend Integration
-
-🏗️ Maintainable Structure
+- 🎨 Responsive interface
+- ⚡ Dynamic greeting responses
+- 🔗 Frontend-backend integration
+- 🏗️ Clean application structure
 
 🔗 **[View Project →](https://github.com/akshayas603/greetingapp)**
 
-</td>
+---
 
-<td width="50%" valign="top">
+# 🚗 Number Plate Detection
 
-## 🚗 Number Plate Detection
+> Computer Vision project for detecting vehicle number plates.
 
-### 🛠️ Tech Stack
+### 🛠️ Technologies
 
-`🐍 Python`  
-`👁️ OpenCV`  
-`🖼️ Image Processing`
+`🐍 Python` `👁️ OpenCV` `🖼️ Image Processing`
 
 ### ✨ Features
 
-🚘 Number Plate Detection
-
-🖼️ Image Processing
-
-🔤 Character Extraction
-
-👁️ Computer Vision
+- 🚘 Number plate detection
+- 🖼️ Image processing
+- 🔤 Character extraction
+- 👁️ Computer Vision
 
 🔗 **[View Project →](https://github.com/akshayas603/Number-Plate-Detection)**
 
-</td>
+---
 
-</tr>
+# 📢 Job Notification Tracker
 
-<tr>
+> Application designed to organize and track job opportunities.
 
-<td width="50%" valign="top">
+### 🛠️ Technologies
 
-## 📢 Job Notification Tracker
-
-### 🛠️ Tech Stack
-
-`☕ Java`  
-`🗄️ SQL`  
-`🐬 MySQL`  
-`🌐 HTML`  
-`🎨 CSS`
+`☕ Java` `🗄️ SQL` `🐬 MySQL` `🌐 HTML` `🎨 CSS`
 
 ### ✨ Features
 
-📋 Job Tracking
-
-🔔 Job Information Management
-
-🗄️ Database Integration
-
-🖥️ User-Friendly Interface
+- 📋 Job tracking
+- 🔔 Job information management
+- 🗄️ Database integration
+- 🖥️ User-friendly interface
 
 🔗 **[View Project →](https://github.com/akshayas603/jobnotificationtracker)**
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🌐 Personal Portfolio
-
-### 🛠️ Tech Stack
-
-`🌐 HTML`  
-`🎨 CSS`  
-`🟨 JavaScript`
-
-### ✨ Features
-
-👤 Personal Information
-
-💼 Skills Showcase
-
-🚀 Projects
-
-📱 Responsive Design
-
-🔗 **[View Project →](https://github.com/akshayas603/portfolio)**
-
-</td>
-
-</tr>
-</table>
 
 ---
 
 # 📊 GitHub Analytics
 
-<table>
-<tr>
-
-<td width="50%" align="center">
-
-### 📈 GitHub Statistics
+<p align="center">
 
 <img
+width="48%"
 src="https://github-readme-stats.vercel.app/api?username=akshayas603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-width="100%"
-alt="GitHub Statistics"
+alt="Akshaya GitHub Statistics"
 />
 
-</td>
-
-<td width="50%" align="center">
-
-### 💻 Most Used Languages
-
 <img
+width="48%"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayas603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-width="100%"
-alt="Top Languages"
+alt="Akshaya Top Languages"
 />
 
-</td>
-
-</tr>
-</table>
+</p>
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 GitHub Contribution Activity
 
-<table>
-<tr>
-<td align="center" width="100%">
-
-<img
-src="https://streak-stats.demolab.com/?user=akshayas603&theme=tokyonight&hide_border=true&mode=weekly"
-width="80%"
-alt="GitHub Contribution Streak"
-/>
-
-</td>
-</tr>
-</table>
-
----
-
-# 📈 Contribution Activity
-
-<table>
-<tr>
-<td align="center" width="100%">
+<p align="center">
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=akshayas603&theme=tokyo-night&hide_border=true&area=true"
 width="100%"
-alt="GitHub Contribution Activity"
+alt="Akshaya GitHub Contribution Activity"
 />
 
-</td>
-</tr>
-</table>
+</p>
 
 ---
 
-# 📌 Developer Dashboard
+# 💻 Development Focus
 
 <table align="center">
 <tr>
-
-<td align="center" width="20%">
-
-### ☕
-**Java**
-
-Development
-
-</td>
-
-<td align="center" width="20%">
-
-### 🗄️
-**SQL**
-
-Database
-
-</td>
-
-<td align="center" width="20%">
-
-### 🌐
-**Web**
-
-Development
-
-</td>
-
-<td align="center" width="20%">
-
-### 🧪
-**Testing**
-
-QA
-
-</td>
-
-<td align="center" width="20%">
-
-### 🤖
-**AI / ML**
-
-Projects
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📚 Certifications
-
-<table>
-<tr>
-
-<td width="50%">
-
-🐍 **Python Programming – Comprehensive Training**
-
-**Infosys SpringBoard**
-
-</td>
-
-<td width="50%">
-
-💼 **CareerEdge – Young Professional**
-
-**TCS iON**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-🐍 **The Complete Python Developer**
-
-**Udemy**
-
-</td>
-
-<td>
-
-☕ **Java Training**
-
-**Besant Technologies**
-
-</td>
-
+<td align="center">☕<br><b>Java</b><br>Development</td>
+<td align="center">🗄️<br><b>SQL</b><br>Database</td>
+<td align="center">🌐<br><b>Web</b><br>Development</td>
+<td align="center">🧪<br><b>Testing</b><br>QA</td>
+<td align="center">🤖<br><b>AI / ML</b><br>Projects</td>
 </tr>
 </table>
 
@@ -619,51 +383,23 @@ Projects
 
 <table align="center">
 <tr>
-
-<td align="center">
-☕<br>
-<b>Advanced Java</b>
-</td>
-
-<td align="center">
-🧠<br>
-<b>DSA</b>
-</td>
-
-<td align="center">
-🟨<br>
-<b>JavaScript</b>
-</td>
-
-<td align="center">
-🌐<br>
-<b>Full Stack</b>
-</td>
-
+<td>☕ Advanced Java</td>
+<td>🧠 Data Structures & Algorithms</td>
 </tr>
 
 <tr>
+<td>🟨 JavaScript</td>
+<td>🌐 Full Stack Development</td>
+</tr>
 
-<td align="center">
-🗄️<br>
-<b>Advanced SQL</b>
-</td>
+<tr>
+<td>🗄️ Advanced SQL</td>
+<td>🧪 Software Testing</td>
+</tr>
 
-<td align="center">
-🧪<br>
-<b>Software Testing</b>
-</td>
-
-<td align="center">
-🔀<br>
-<b>Git & GitHub</b>
-</td>
-
-<td align="center">
-🚀<br>
-<b>Backend Development</b>
-</td>
-
+<tr>
+<td>🔀 Git & GitHub</td>
+<td>🚀 Backend Development</td>
 </tr>
 </table>
 
@@ -671,93 +407,72 @@ Projects
 
 # 🧠 Problem Solving
 
-<table align="center">
-<tr>
+I regularly practice programming and interview problems to strengthen:
 
-<td align="center">🔢<br><b>Arrays</b></td>
-<td align="center">🔤<br><b>Strings</b></td>
-<td align="center">🔍<br><b>Searching</b></td>
-<td align="center">📊<br><b>Sorting</b></td>
+- 🔢 Arrays & Strings
+- 🔍 Searching & Sorting
+- 🔁 Recursion
+- ☕ Java & OOP
+- 🗂️ Collections
+- 🧠 Data Structures
+- ⚡ Algorithms
+- 🗄️ SQL Queries
+- 💡 Logical Problem Solving
 
-</tr>
+---
 
-<tr>
+# 📜 Certifications
 
-<td align="center">🔁<br><b>Recursion</b></td>
-<td align="center">☕<br><b>OOP</b></td>
-<td align="center">🗂️<br><b>Collections</b></td>
-<td align="center">🗄️<br><b>SQL</b></td>
-
-</tr>
-</table>
+| 🎓 Certification | 🏢 Platform |
+|---|---|
+| 🐍 Python Programming – Comprehensive Training | Infosys SpringBoard |
+| 💼 CareerEdge – Young Professional | TCS iON |
+| 🐍 The Complete Python Developer | Udemy |
+| ☕ Java Training | Besant Technologies |
 
 ---
 
 # 🎯 Career Objective
 
-<table>
-<tr>
-<td>
+I am looking for an **entry-level Software Developer / Java Developer opportunity** where I can apply my programming fundamentals, database knowledge, development experience and problem-solving skills.
 
-🚀 I am looking for an **entry-level Software Developer / Java Developer opportunity** where I can apply my programming fundamentals, database knowledge, development experience and problem-solving skills.
+### Interested Roles
 
-### 💼 Interested Roles
+☕ **Java Developer**
 
-| | |
-|---|---|
-| ☕ **Java Developer** | 💻 **Software Developer** |
-| 🌐 **Full Stack Developer** | 🚀 **Software Engineer** |
-| 🧪 **QA / Software Test Engineer** | 🗄️ **SQL / Database Developer** |
+💻 **Software Developer**
 
-</td>
-</tr>
-</table>
+🌐 **Full Stack Developer**
+
+🚀 **Software Engineer**
+
+🧪 **QA / Software Test Engineer**
+
+🗄️ **SQL / Database Developer**
 
 ---
 
 # 🤝 Let's Connect
 
-<table align="center">
-
-<tr>
-
-<td align="center" width="50%">
-
-### 💼 LinkedIn
+<p align="center">
 
 <a href="https://www.linkedin.com/in/s-akshaya-bb648b298">
-
-<img
-src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br><br>
-
-**Direct Profile**
-
-</td>
-
-<td align="center" width="50%">
-
-### 💻 GitHub
 
 <a href="https://github.com/akshayas603">
-
-<img
-src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+</p>
 
-**My Repositories**
+### 🔗 Direct Links
 
-</td>
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/s-akshaya-bb648b298
 
-</tr>
-
-</table>
+💻 **GitHub:**  
+https://github.com/akshayas603
 
 ---
 
@@ -765,6 +480,6 @@ src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge
 
 ### 💻 Code • Learn • Build • Test • Improve 🚀
 
-### ⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 </p>
