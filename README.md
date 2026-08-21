@@ -331,39 +331,6 @@
 
 ---
 
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=akshayas603&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayas603&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <a href="https://github.com/akshayas603">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=akshayas603&theme=tokyo-night&hide_border=true&area=true"
-      width="100%"
-      alt="GitHub Contribution Activity"
-    />
-  </a>
-</p>
-
----
-
 # 📈 GitHub Contribution Activity
 
 <p align="center">
