@@ -1,75 +1,67 @@
 # 👋 Hi, I'm Akshaya S
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Java+Developer+☕;Software+Developer+💻;SQL+%26+Database+Enthusiast+🗄️;Full+Stack+Developer+🌐;Software+Testing+Enthusiast+🧪;AI+%26+Machine+Learning+Explorer+🤖;Always+Learning+%26+Building+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=850&lines=☕+Java+Developer;💻+Software+Developer;🌐+Full+Stack+Developer;🗄️+SQL+%26+Database+Enthusiast;🧪+Software+Testing+Enthusiast;🤖+AI+%26+Machine+Learning+Explorer;🚀+Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
   <a href="https://github.com/akshayas603">
-    <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💻_GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/s-akshaya-bb648b298">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
-
 <table>
 <tr>
-<td width="50%">
 
-### 🎓 Education
+<td width="50%" valign="top">
 
-**B.E. Computer Science Engineering**
+## 👩‍💻 About Me
 
-University College of Engineering, Nagercoil
+🎓 Computer Science Engineering Graduate
 
 ⭐ **CGPA: 8.3**
 
-</td>
+☕ Passionate about **Java Development**
 
-<td width="50%">
+💻 Interested in **Software Development**
 
-### 💼 Experience
+🗄️ Strong interest in **SQL & Databases**
 
-**Java Intern**
+🌐 Interested in **Web Development**
 
-Alo Info-Tech
+🧪 Knowledge of **Manual Testing**
 
-**Software Development Intern**
+🤖 Interested in **AI / Machine Learning**
 
-KodNest Technologies
+🚀 Enjoy building practical real-world applications
 
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ☕ Primary Focus
-
-- Java Development
-- Object-Oriented Programming
-- JDBC
-- SQL
-- Backend Development
+🎯 Looking for **Software Developer / Java Developer** opportunities
 
 </td>
 
-<td>
+<td width="50%" valign="top">
 
-### 🚀 Development
+## 📊 Quick Profile
 
-- Web Development
-- Database Management
-- Manual Testing
-- Git & GitHub
-- Problem Solving
+| | |
+|---|---|
+| 🎓 **Degree** | B.E. Computer Science |
+| ⭐ **CGPA** | 8.3 |
+| ☕ **Primary Language** | Java |
+| 🗄️ **Database** | SQL / MySQL |
+| 🌐 **Frontend** | HTML / CSS / JavaScript |
+| ⚙️ **Backend** | Java / Spring Boot |
+| 🧪 **Testing** | Manual Testing |
+| 🤖 **AI / ML** | Python / OpenCV |
+| 🔀 **Version Control** | Git / GitHub |
 
 </td>
+
 </tr>
 </table>
 
@@ -82,60 +74,44 @@ KodNest Technologies
 
 <td width="50%" valign="top">
 
-### ☕ Programming Languages
+## 👨‍💻 Programming Languages
 
-- ☕ **Java**
-- 🐍 **Python**
-- 🟨 **JavaScript**
-- 🗄️ **SQL**
+### ☕ Java
+`Core Java` `OOP` `Collections`  
+`Exception Handling` `Multithreading` `JDBC`
 
-</td>
+### 🐍 Python
+`Programming` `Machine Learning`  
+`Computer Vision` `OpenCV`
 
-<td width="50%" valign="top">
+### 🟨 JavaScript
+`JavaScript Fundamentals` `DOM`  
+`Web Development`
 
-### 🌐 Web Development
-
-- 🌐 HTML5
-- 🎨 CSS3
-- 🟨 JavaScript
-- 📱 Responsive Design
-- 📐 Flexbox
-- 🧩 CSS Grid
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ Java Development
-
-- ☕ Core Java
-- 🧩 OOP
-- 📦 Collections
-- ⚠️ Exception Handling
-- 🧵 Multithreading
-- 🔌 JDBC
-- 🌱 Spring Boot
-- 🏗️ Hibernate
-- 📦 Maven
+### 🗄️ SQL
+`Queries` `Joins` `Subqueries`  
+`CRUD` `Database Management`
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🗄️ Database
+## 🌐 Web & Backend
 
-- 🐬 MySQL
-- 🗄️ SQL Server
-- 🍃 MongoDB
-- 🔗 Joins
-- 🔍 Subqueries
-- ✏️ CRUD Operations
-- 🔐 Constraints
-- 🗂️ Database Management
+### 🌐 Frontend
+`HTML5` `CSS3` `JavaScript`
+
+### ☕ Backend
+`Java` `Spring Boot` `JDBC`
+
+### 🏗️ Architecture
+`MVC`
+
+### 📦 Build
+`Maven`
+
+### 🗄️ ORM
+`Hibernate`
 
 </td>
 
@@ -145,33 +121,70 @@ KodNest Technologies
 
 <td width="50%" valign="top">
 
-### 🧪 Software Testing
+## 🧪 Testing & Development
 
-- 🧪 Manual Testing
-- 📝 Test Cases
-- 🔍 Test Scenarios
-- 🐞 Defect Reporting
-- 🔄 SDLC
-- 🔄 STLC
-- 🚬 Smoke Testing
-- 🧹 Sanity Testing
-- 🔀 Agile
-- 👥 Scrum
+🧪 Manual Testing
+
+📝 Test Case Design
+
+🔍 Test Scenarios
+
+🐞 Defect Reporting
+
+🔄 SDLC
+
+🔄 STLC
+
+🚀 Agile Methodology
+
+👥 Scrum
+
+🐞 Debugging
+
+⚡ Troubleshooting
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AI / Machine Learning
+## 🗄️ Databases & Tools
 
-- 🐍 Python
-- 👁️ OpenCV
-- 🧠 TensorFlow
-- 🤖 Keras
-- 🔬 CNN
-- 🔢 NumPy
-- 🧠 Machine Learning
-- 👁️ Computer Vision
+### 🗄️ Databases
+
+🐬 MySQL  
+🗃️ SQL Server  
+🍃 MongoDB
+
+### 🔧 Tools
+
+🔀 Git  
+💻 GitHub  
+🛠️ Eclipse  
+📝 VS Code  
+💡 IntelliJ IDEA  
+📦 Maven
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="2" valign="top">
+
+## 🤖 AI / Machine Learning
+
+<table>
+<tr>
+<td align="center">🐍 Python</td>
+<td align="center">👁️ OpenCV</td>
+<td align="center">🧠 TensorFlow</td>
+<td align="center">🤖 Keras</td>
+<td align="center">🔬 CNN</td>
+<td align="center">🔢 NumPy</td>
+<td align="center">👁️ Computer Vision</td>
+</tr>
+</table>
 
 </td>
 
@@ -180,20 +193,37 @@ KodNest Technologies
 
 ---
 
-# 🔧 Tools & Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql,mongodb,spring,git,github,vscode,eclipse,idea,maven,tensorflow,opencv"/>
-
-</p>
-
----
-
 # 💼 Professional Experience
 
 <table>
 <tr>
+
+<td width="50%" valign="top">
+
+## 💻 Software Development Intern
+
+### KodNest Technologies
+
+📍 Bengaluru, Karnataka
+
+📅 **February 2026 – Present**
+
+### 🔹 Work Areas
+
+☕ Java Development
+
+🗄️ MySQL
+
+🌐 Frontend Technologies
+
+🧪 Manual Testing
+
+💻 Software Development
+
+🤝 Industry-oriented Projects
+
+</td>
+
 <td width="50%" valign="top">
 
 ## ☕ Java Intern
@@ -202,38 +232,26 @@ KodNest Technologies
 
 📍 Parvathipuram
 
-**Responsibilities**
+### 🔹 Work Areas
 
-- ☕ Core Java development
-- 🔌 JDBC & SQL
-- 🗄️ CRUD operations
-- 🏗️ MVC architecture
-- 🐞 Debugging
-- ⚡ Code optimization
-- 🛠️ Eclipse & VS Code
+☕ Core Java
 
-</td>
+🔌 JDBC
 
-<td width="50%" valign="top">
+🗄️ SQL
 
-## 💻 Software Development Intern
+✏️ CRUD Operations
 
-### KodNest Technologies
+🏗️ MVC Architecture
 
-📍 Bengaluru
+🐞 Debugging
 
-📅 **Feb 2026 – Present**
+⚡ Troubleshooting
 
-**Areas**
-
-- ☕ Java
-- 🐬 MySQL
-- 🌐 Frontend Development
-- 🧪 Manual Testing
-- 💻 Software Development
-- 🤝 Industry-oriented projects
+🛠️ Eclipse & VS Code
 
 </td>
+
 </tr>
 </table>
 
@@ -250,21 +268,33 @@ KodNest Technologies
 
 ### 🛠️ Tech Stack
 
-`☕ Java` `🌱 Spring Boot` `🗄️ SQL` `🌐 HTML` `🎨 CSS`
+`☕ Java`  
+`🌱 Spring Boot`  
+`🗄️ SQL`  
+`🌐 HTML`  
+`🎨 CSS`
 
 ### ✨ Features
 
-- 👤 Donor registration
-- 🧑‍⚕️ Recipient management
-- 🏥 Hospital management
-- 🫀 Organ requests
-- 🔐 Authentication
-- 🔄 Organ allocation
-- 🗄️ Database management
+👤 Donor Registration
+
+🧑‍⚕️ Recipient Management
+
+🏥 Hospital Management
+
+🫀 Organ Request Processing
+
+🔐 User Authentication
+
+🔄 Organ Allocation
+
+🗄️ SQL Data Management
+
+📱 Responsive Interface
 
 ### 💡 Highlights
 
-Backend developed using Java and Spring Boot with SQL-based data management.
+Developed backend functionality using Java and Spring Boot with SQL-based data management.
 
 🔗 **[View Project →](https://github.com/akshayas603)**
 
@@ -276,19 +306,27 @@ Backend developed using Java and Spring Boot with SQL-based data management.
 
 ### 🛠️ Tech Stack
 
-`🐍 Python` `👁️ OpenCV` `🧠 TensorFlow/Keras` `🔬 CNN` `🔢 NumPy`
+`🐍 Python`  
+`👁️ OpenCV`  
+`🧠 TensorFlow/Keras`  
+`🔬 CNN`  
+`🔢 NumPy`
 
 ### ✨ Features
 
-- 🧠 MRI classification
-- 🖼️ Image preprocessing
-- 🔍 Tumor detection
-- 🤖 Deep learning
-- 👁️ Computer Vision
+🧠 MRI Image Classification
+
+🖼️ Image Preprocessing
+
+🔍 Tumor Detection
+
+🤖 Deep Learning Prediction
+
+👁️ Computer Vision
 
 ### 💡 Highlights
 
-CNN-based model for classifying MRI scans as tumor or non-tumor.
+CNN-based deep learning project for detecting brain tumors from MRI images.
 
 🔗 **[View Project →](https://github.com/akshayas603/brain_tumor_detections)**
 
@@ -304,14 +342,20 @@ CNN-based model for classifying MRI scans as tumor or non-tumor.
 
 ### 🛠️ Tech Stack
 
-`☕ Java` `🌱 Spring Boot` `🌐 HTML` `🎨 CSS`
+`☕ Java`  
+`🌱 Spring Boot`  
+`🌐 HTML`  
+`🎨 CSS`
 
 ### ✨ Features
 
-- 🎨 Responsive UI
-- ⚡ Dynamic greetings
-- 🔗 Frontend-backend integration
-- 🏗️ Maintainable architecture
+🎨 Responsive UI
+
+⚡ Dynamic Greetings
+
+🔗 Frontend-Backend Integration
+
+🏗️ Maintainable Structure
 
 🔗 **[View Project →](https://github.com/akshayas603/greetingapp)**
 
@@ -323,14 +367,19 @@ CNN-based model for classifying MRI scans as tumor or non-tumor.
 
 ### 🛠️ Tech Stack
 
-`🐍 Python` `👁️ OpenCV` `🖼️ Image Processing`
+`🐍 Python`  
+`👁️ OpenCV`  
+`🖼️ Image Processing`
 
 ### ✨ Features
 
-- 🚘 Number plate detection
-- 🖼️ Image processing
-- 🔤 Character extraction
-- 👁️ Computer Vision
+🚘 Number Plate Detection
+
+🖼️ Image Processing
+
+🔤 Character Extraction
+
+👁️ Computer Vision
 
 🔗 **[View Project →](https://github.com/akshayas603/Number-Plate-Detection)**
 
@@ -346,14 +395,21 @@ CNN-based model for classifying MRI scans as tumor or non-tumor.
 
 ### 🛠️ Tech Stack
 
-`☕ Java` `🗄️ SQL` `🐬 MySQL` `🌐 HTML` `🎨 CSS`
+`☕ Java`  
+`🗄️ SQL`  
+`🐬 MySQL`  
+`🌐 HTML`  
+`🎨 CSS`
 
 ### ✨ Features
 
-- 📋 Job tracking
-- 🔔 Job information
-- 🗄️ Database integration
-- 🖥️ User-friendly interface
+📋 Job Tracking
+
+🔔 Job Information Management
+
+🗄️ Database Integration
+
+🖥️ User-Friendly Interface
 
 🔗 **[View Project →](https://github.com/akshayas603/jobnotificationtracker)**
 
@@ -361,18 +417,23 @@ CNN-based model for classifying MRI scans as tumor or non-tumor.
 
 <td width="50%" valign="top">
 
-## 🌐 Portfolio
+## 🌐 Personal Portfolio
 
 ### 🛠️ Tech Stack
 
-`🌐 HTML` `🎨 CSS` `🟨 JavaScript`
+`🌐 HTML`  
+`🎨 CSS`  
+`🟨 JavaScript`
 
 ### ✨ Features
 
-- 👤 Personal information
-- 💼 Skills
-- 🚀 Projects
-- 📱 Responsive design
+👤 Personal Information
+
+💼 Skills Showcase
+
+🚀 Projects
+
+📱 Responsive Design
 
 🔗 **[View Project →](https://github.com/akshayas603/portfolio)**
 
@@ -392,7 +453,11 @@ CNN-based model for classifying MRI scans as tumor or non-tumor.
 
 ### 📈 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=akshayas603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img
+src="https://github-readme-stats.vercel.app/api?username=akshayas603&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+width="100%"
+alt="GitHub Statistics"
+/>
 
 </td>
 
@@ -400,7 +465,11 @@ CNN-based model for classifying MRI scans as tumor or non-tumor.
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayas603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshayas603&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+width="100%"
+alt="Top Languages"
+/>
 
 </td>
 
@@ -409,9 +478,29 @@ CNN-based model for classifying MRI scans as tumor or non-tumor.
 
 ---
 
+# 🔥 Contribution Streak
+
+<table>
+<tr>
+<td align="center" width="100%">
+
+<img
+src="https://streak-stats.demolab.com/?user=akshayas603&theme=tokyonight&hide_border=true&mode=weekly"
+width="80%"
+alt="GitHub Contribution Streak"
+/>
+
+</td>
+</tr>
+</table>
+
+---
+
 # 📈 Contribution Activity
 
-<p align="center">
+<table>
+<tr>
+<td align="center" width="100%">
 
 <img
 src="https://github-readme-activity-graph.vercel.app/graph?username=akshayas603&theme=tokyo-night&hide_border=true&area=true"
@@ -419,14 +508,15 @@ width="100%"
 alt="GitHub Contribution Activity"
 />
 
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📌 Development Dashboard
+# 📌 Developer Dashboard
 
 <table align="center">
-
 <tr>
 
 <td align="center" width="20%">
@@ -475,7 +565,6 @@ Projects
 </td>
 
 </tr>
-
 </table>
 
 ---
@@ -484,30 +573,44 @@ Projects
 
 <table>
 <tr>
-<th>🎓 Certification</th>
-<th>🏢 Platform</th>
+
+<td width="50%">
+
+🐍 **Python Programming – Comprehensive Training**
+
+**Infosys SpringBoard**
+
+</td>
+
+<td width="50%">
+
+💼 **CareerEdge – Young Professional**
+
+**TCS iON**
+
+</td>
+
 </tr>
 
 <tr>
-<td>🐍 Python Programming – Comprehensive Training</td>
-<td>Infosys SpringBoard</td>
-</tr>
 
-<tr>
-<td>💼 CareerEdge – Young Professional</td>
-<td>TCS iON</td>
-</tr>
+<td>
 
-<tr>
-<td>🐍 The Complete Python Developer</td>
-<td>Udemy</td>
-</tr>
+🐍 **The Complete Python Developer**
 
-<tr>
-<td>☕ Java Training</td>
-<td>Besant Technologies</td>
-</tr>
+**Udemy**
 
+</td>
+
+<td>
+
+☕ **Java Training**
+
+**Besant Technologies**
+
+</td>
+
+</tr>
 </table>
 
 ---
@@ -515,21 +618,53 @@ Projects
 # 🌱 Currently Learning
 
 <table align="center">
-
 <tr>
-<td align="center">☕<br><b>Advanced Java</b></td>
-<td align="center">🧠<br><b>DSA</b></td>
-<td align="center">🟨<br><b>JavaScript</b></td>
-<td align="center">🌐<br><b>Full Stack</b></td>
+
+<td align="center">
+☕<br>
+<b>Advanced Java</b>
+</td>
+
+<td align="center">
+🧠<br>
+<b>DSA</b>
+</td>
+
+<td align="center">
+🟨<br>
+<b>JavaScript</b>
+</td>
+
+<td align="center">
+🌐<br>
+<b>Full Stack</b>
+</td>
+
 </tr>
 
 <tr>
-<td align="center">🗄️<br><b>Advanced SQL</b></td>
-<td align="center">🧪<br><b>Testing</b></td>
-<td align="center">🔀<br><b>Git & GitHub</b></td>
-<td align="center">🚀<br><b>Backend</b></td>
-</tr>
 
+<td align="center">
+🗄️<br>
+<b>Advanced SQL</b>
+</td>
+
+<td align="center">
+🧪<br>
+<b>Software Testing</b>
+</td>
+
+<td align="center">
+🔀<br>
+<b>Git & GitHub</b>
+</td>
+
+<td align="center">
+🚀<br>
+<b>Backend Development</b>
+</td>
+
+</tr>
 </table>
 
 ---
@@ -537,21 +672,23 @@ Projects
 # 🧠 Problem Solving
 
 <table align="center">
-
 <tr>
+
 <td align="center">🔢<br><b>Arrays</b></td>
 <td align="center">🔤<br><b>Strings</b></td>
 <td align="center">🔍<br><b>Searching</b></td>
 <td align="center">📊<br><b>Sorting</b></td>
+
 </tr>
 
 <tr>
+
 <td align="center">🔁<br><b>Recursion</b></td>
 <td align="center">☕<br><b>OOP</b></td>
 <td align="center">🗂️<br><b>Collections</b></td>
 <td align="center">🗄️<br><b>SQL</b></td>
-</tr>
 
+</tr>
 </table>
 
 ---
@@ -566,12 +703,11 @@ Projects
 
 ### 💼 Interested Roles
 
-☕ **Java Developer**  
-💻 **Software Developer**  
-🌐 **Full Stack Developer**  
-🚀 **Software Engineer**  
-🧪 **QA / Software Test Engineer**  
-🗄️ **SQL / Database Developer**
+| | |
+|---|---|
+| ☕ **Java Developer** | 💻 **Software Developer** |
+| 🌐 **Full Stack Developer** | 🚀 **Software Engineer** |
+| 🧪 **QA / Software Test Engineer** | 🗄️ **SQL / Database Developer** |
 
 </td>
 </tr>
@@ -585,23 +721,37 @@ Projects
 
 <tr>
 
-<td align="center">
+<td align="center" width="50%">
 
 ### 💼 LinkedIn
 
 <a href="https://www.linkedin.com/in/s-akshaya-bb648b298">
-<img src="https://img.shields.io/badge/Visit%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
+
+<br><br>
+
+**Direct Profile**
 
 </td>
 
-<td align="center">
+<td align="center" width="50%">
 
 ### 💻 GitHub
 
 <a href="https://github.com/akshayas603">
-<img src="https://img.shields.io/badge/Visit%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img
+src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
+<br><br>
+
+**My Repositories**
 
 </td>
 
@@ -615,6 +765,6 @@ Projects
 
 ### 💻 Code • Learn • Build • Test • Improve 🚀
 
-⭐ **Thanks for visiting my profile!**
+### ⭐ Thanks for visiting my profile!
 
 </p>
